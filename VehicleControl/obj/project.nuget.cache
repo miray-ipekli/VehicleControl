@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "leW7TWhkwuQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miray.ipekli\\OneDrive - Logo\\Desktop\\VehicleControl\\VehicleControl\\VehicleControl.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus3.logo.com.tr:8081/repository/nuget-nafcore/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus3.logo.com.tr:8081/repository/nuget-elogocore/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

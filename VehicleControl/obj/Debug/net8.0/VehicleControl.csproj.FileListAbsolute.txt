@@ -1,0 +1,56 @@
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.AssemblyInfoInputs.cache
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.AssemblyInfo.cs
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.csproj.CoreCompileInputs.cache
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.exe
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.deps.json
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.runtimeconfig.json
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.dll
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.pdb
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.dll
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\obj\Debug\net8.0\refint\VehicleControl.dll
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.pdb
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.genruntimeconfig.cache
+C:\Users\miray.ipekli\source\repos\VehicleControl\VehicleControl\obj\Debug\net8.0\ref\VehicleControl.dll
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.exe
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.deps.json
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.runtimeconfig.json
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.dll
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.pdb
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.AssemblyInfoInputs.cache
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.AssemblyInfo.cs
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.csproj.CoreCompileInputs.cache
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.dll
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\obj\Debug\net8.0\refint\VehicleControl.dll
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.pdb
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.genruntimeconfig.cache
+C:\Users\miray\OneDrive\Masaüstü\VehicleControl\VehicleControl\obj\Debug\net8.0\ref\VehicleControl.dll
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.exe
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.deps.json
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.runtimeconfig.json
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.dll
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.pdb
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.AssemblyInfoInputs.cache
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.AssemblyInfo.cs
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.csproj.CoreCompileInputs.cache
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.dll
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\obj\Debug\net8.0\refint\VehicleControl.dll
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.pdb
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.genruntimeconfig.cache
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\VehicleControl\VehicleControl\obj\Debug\net8.0\ref\VehicleControl.dll
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.exe
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.deps.json
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.runtimeconfig.json
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.dll
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\bin\Debug\net8.0\VehicleControl.pdb
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.AssemblyInfoInputs.cache
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.AssemblyInfo.cs
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.csproj.CoreCompileInputs.cache
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.dll
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\obj\Debug\net8.0\refint\VehicleControl.dll
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.pdb
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\obj\Debug\net8.0\VehicleControl.genruntimeconfig.cache
+C:\Users\miray.ipekli\OneDrive - Logo\Desktop\CaseStudy\VehicleControl\VehicleControl\obj\Debug\net8.0\ref\VehicleControl.dll
